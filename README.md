@@ -4,8 +4,6 @@
 
 This project presents an end-to-end analysis of customer shopping behaviour using Python, SQL, PostgreSQL, and Power BI. The objective is to transform raw customer data into meaningful business insights through data cleaning, SQL analysis, and interactive visualizations.
 
----
-
 ## Objectives
 
 - Clean and preprocess customer shopping data
@@ -13,8 +11,6 @@ This project presents an end-to-end analysis of customer shopping behaviour usin
 - Analyze customer purchasing behaviour using SQL
 - Build an interactive Power BI dashboard
 - Generate actionable business insights
-
----
 
 ## Tools & Technologies
 
@@ -26,8 +22,6 @@ This project presents an end-to-end analysis of customer shopping behaviour usin
 - Power Query
 - DAX
 - Git & GitHub
-
----
 
 ## Project Workflow
 
@@ -73,11 +67,8 @@ Dashboard features include:
 - Sales by Age Group
 - Interactive Filters
 
----
-
 ## Repository Structure
 
-```
 Customer-Shopping-Behaviour-Analysis
 │
 ├── Dataset/
@@ -93,9 +84,6 @@ Customer-Shopping-Behaviour-Analysis
 │   └── Customer Behaviour Dashboard.pdf
 │
 └── README.md
-```
-
----
 
 ## Files Included
 
@@ -105,8 +93,6 @@ Customer-Shopping-Behaviour-Analysis
 - Power BI Dashboard (PDF)
 - Project Documentation (README)
 
----
-
 ## Key Insights
 
 - Customer purchase patterns across product categories
@@ -114,8 +100,6 @@ Customer-Shopping-Behaviour-Analysis
 - Sales performance by category
 - Customer rating analysis
 - Customer demographic trends
-
----
 
 ## Skills Demonstrated
 
@@ -128,19 +112,15 @@ Customer-Shopping-Behaviour-Analysis
 - Business Intelligence
 - Data Interpretation
 
----
-
 ## Dashboard Preview
 
 The interactive Power BI dashboard highlights important KPIs and business insights, including customer distribution, revenue analysis, sales performance, and category-wise trends.
 
 > **Note:** The repository includes the dashboard exported as a PDF. The original Power BI (.pbix) file can also be added for further exploration.
 
----
-
 ## Author
 
-**Aish**
+**Aishwarya S**
 
 Aspiring Data Analyst
 
@@ -149,7 +129,5 @@ Aspiring Data Analyst
 - PostgreSQL
 - Power BI
 - GitHub
-
----
 
 ⭐ If you found this project helpful, consider giving the repository a star!
