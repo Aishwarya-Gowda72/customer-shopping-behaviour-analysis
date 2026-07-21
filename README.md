@@ -67,24 +67,6 @@ Dashboard features include:
 - Sales by Age Group
 - Interactive Filters
 
-## Repository Structure
-
-Customer-Shopping-Behaviour-Analysis
-│
-├── Dataset/
-│   └── customer_shopping_data.csv
-│
-├── Python/
-│   └── customer_behaviour_analysis.ipynb
-│
-├── SQL/
-│   └── customer_analysis_queries.sql
-│
-├── Dashboard/
-│   └── Customer Behaviour Dashboard.pdf
-│
-└── README.md
-
 ## Files Included
 
 - Customer Shopping Dataset
